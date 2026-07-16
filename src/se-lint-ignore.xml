@@ -8,32 +8,6 @@
 			<reason>IE preserves original IA scan resolution; &gt;4M pixels is intentional for detail legibility</reason>
 		</ignore>
 	</file>
-	<file path="chapter-*.xhtml">
-		<ignore code="m-045">
-			<reason>Chapter headings with Roman numerals + subtitle spans are correctly represented in ToC</reason>
-		</ignore>
-		<ignore code="s-021">
-			<reason>Roman numeral + subtitle headings produce correct titles per se build-title; se lint extracts only the Roman numeral</reason>
-		</ignore>
-		<ignore code="s-023">
-			<reason>Chapter headings use original edition capitalization; titlecasing would alter the translators style</reason>
-		</ignore>
-		<ignore code="s-050">
-			<reason>Roman numeral span is required by se semantics; merging into parent triggers s-068</reason>
-		</ignore>
-		<ignore code="s-068">
-			<reason>se expects z3998:ordinal on child span not parent h2; this is the correct SE structure</reason>
-		</ignore>
-		<ignore code="s-072">
-			<reason>Single Roman numeral span is required by se semantics; not a style violation</reason>
-		</ignore>
-		<ignore code="t-013">
-			<reason>se typogrify titlecases Roman numerals mid-heading (Ii, Vii); pipeline Step 11.52 fixes them post-lint</reason>
-		</ignore>
-		<ignore code="x-019">
-			<reason>Proverb cross-reference anchors on paragraphs use semantic ids, not SE file-stem-p-N convention</reason>
-		</ignore>
-	</file>
 	<file path="content.opf">
 		<ignore code="m-042">
 			<reason>IE Calibre raster cover workaround adds manifest item not expected by SE</reason>
@@ -47,11 +21,6 @@
 	<file path="local.css">
 		<ignore code="c-002">
 			<reason>CSS template includes selectors for features this book does not use</reason>
-		</ignore>
-	</file>
-	<file path="preface-*.xhtml">
-		<ignore code="t-013">
-			<reason>se typogrify titlecases Roman numerals mid-text; pipeline Step 11.52 fixes them post-lint</reason>
 		</ignore>
 	</file>
 	<file path="titlepage.xhtml">
