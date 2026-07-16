@@ -59,6 +59,16 @@
       "file": "src/epub/text/chapter-40.xhtml",
       "find": "\u2018scaped",
       "replace": "\u2019scaped"
+    },
+    {
+      "file": "src/epub/text/chapter-2.xhtml",
+      "find": "The Nibelungenlied (1)",
+      "replace": "The Nibelungenlied<a href=\"endnotes.xhtml#note-3-1\" id=\"noteref-3-1\" epub:type=\"noteref\">1</a>"
+    },
+    {
+      "file": "src/epub/text/chapter-2.xhtml",
+      "find": "<title>The Nibelungenlied (1)</title>",
+      "replace": "<title>The Nibelungenlied</title>"
     }
   ]
 }
