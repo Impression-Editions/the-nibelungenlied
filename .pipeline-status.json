@@ -1,6 +1,6 @@
 {
   "run_number": 1,
-  "last_run": "2026-07-16 01:45:10 UTC",
+  "last_run": "2026-07-16 10:12:59 UTC",
   "last_from_step": "generate_errata",
   "result": "errors",
   "error_count": 2,
@@ -30,6 +30,7 @@
     "Step 9.1: Boilerplate",
     "Step 9.5: Post cleanup",
     "Step 9.6: About the Author",
+    "Step 9.7: About the Translator",
     "Step 10: Cover art",
     "Step 10.9: Rebuild ToC",
     "Step 10.9: Final cleanup",
@@ -44,9 +45,7 @@
     "Step 12.6: Preview HTML",
     "Step 13: Build Kindle"
   ],
-  "steps_failed": [
-    "Step 9.7: About the Translator"
-  ],
+  "steps_failed": [],
   "errors": [
     "('Orphan endnotes', '1 endnote(s) with no matching forward links: note-3-1')",
     "('Step 11.1: Patches', '  Applying 13 patch(es) from patches.json...\\n  OK   [0]: src/epub/text/chapter-7.xhtml — 1 replacement(s)\\n  OK   [1]: src/epub/text/chapter-10.xhtml — 1 replacement(s)\\n  OK   [2]: src/epub/text/chapter-13.xhtml — 1 replacement(s)\\n  OK   [3]: src/epub/text/chapter-15.xhtml — 1 replacement(s)\\n  OK   [')"
