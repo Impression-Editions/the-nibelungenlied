@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://www.impressioneditions.com/ebooks/anonymous/the-nibelungenlied</dc:identifier>
-		<dc:date>2026-07-16T01:44:02Z</dc:date>
+		<dc:date>2026-07-16T10:11:43Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the public domain. This ebook edition is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See the Copyright &amp; Permissions page at the end of this ebook for details.</dc:rights>
 		<dc:publisher id="publisher">Impression Editions</dc:publisher>
@@ -45,7 +45,7 @@
 		<dc:source>TRANSCRIPTION_URL</dc:source>
 		<dc:source/>
 		<meta property="se:production-notes"/>
-		<meta property="se:word-count">96833</meta>
+		<meta property="se:word-count">96766</meta>
 		<meta property="se:reading-ease.flesch">80.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anonymous</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
@@ -83,6 +83,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="marc:relators" refines="#preface-2.xhtml">wpr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/compatibility-white-label.css" id="compatibility-white-label.css" media-type="text/css"/>
@@ -140,9 +141,13 @@
 		<item href="text/chapter-38.xhtml" id="chapter-38.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-39.xhtml" id="chapter-39.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chapter-40.xhtml" id="chapter-40.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chapter-41.xhtml" id="chapter-41.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/introduction-3.xhtml" id="introduction-3.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/preface-2.xhtml" id="preface-2.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="text/about-the-translator.xhtml" id="about-the-translator.xhtml" media-type="application/xhtml+xml"/>
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 			<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
 		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="font/woff2"/>
@@ -151,6 +156,8 @@
 	<spine>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="appendix.xhtml"/>
+		<itemref idref="preface-2.xhtml"/>
+		<itemref idref="introduction-3.xhtml"/>
 		<itemref idref="chapter-2.xhtml"/>
 		<itemref idref="chapter-3.xhtml"/>
 		<itemref idref="chapter-4.xhtml"/>
@@ -190,5 +197,6 @@
 		<itemref idref="chapter-38.xhtml"/>
 		<itemref idref="chapter-39.xhtml"/>
 		<itemref idref="chapter-40.xhtml"/>
+		<itemref idref="chapter-41.xhtml"/>
 </spine>
 </package>
