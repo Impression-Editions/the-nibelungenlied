@@ -45,13 +45,13 @@
 	</navPoint>
 	<navPoint id="navPoint-7" playOrder="7">
 		<navLabel>
-			<text>The Nibelungenlied (1)</text>
+			<text>The Nibelungenlied</text>
 		</navLabel>
 		<content src="text/nibelungenlied.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-8" playOrder="8">
 		<navLabel>
-			<text>Adventure I2</text>
+			<text>Adventure I</text>
 		</navLabel>
 		<content src="text/adventure-i.xhtml"/>
 	</navPoint>
@@ -69,7 +69,7 @@
 	</navPoint>
 	<navPoint id="navPoint-11" playOrder="11">
 		<navLabel>
-			<text>Adventure IV. How He Fought with the Saxons.1</text>
+			<text>Adventure IV. How He Fought with the Saxons</text>
 		</navLabel>
 		<content src="text/adventure-iv.xhtml"/>
 	</navPoint>
@@ -81,7 +81,7 @@
 	</navPoint>
 	<navPoint id="navPoint-13" playOrder="13">
 		<navLabel>
-			<text>Adventure VI. How Gunther Fared to Isenland1 for Brunhild</text>
+			<text>Adventure VI. How Gunther Fared to Isenland for Brunhild</text>
 		</navLabel>
 		<content src="text/adventure-vi.xhtml"/>
 	</navPoint>
@@ -93,7 +93,7 @@
 	</navPoint>
 	<navPoint id="navPoint-15" playOrder="15">
 		<navLabel>
-			<text>Adventure VIII. How Siegfried Fared to His Men-At-Arms, the Nibelungs.1</text>
+			<text>Adventure VIII. How Siegfried Fared to His Men-At-Arms, the Nibelungs</text>
 		</navLabel>
 		<content src="text/adventure-viii.xhtml"/>
 	</navPoint>
@@ -165,7 +165,7 @@
 	</navPoint>
 	<navPoint id="navPoint-27" playOrder="27">
 		<navLabel>
-			<text>Adventure XX. How King Etzel1 Sent to Burgundy for Kriemhild</text>
+			<text>Adventure XX. How King Etzel Sent to Burgundy for Kriemhild</text>
 		</navLabel>
 		<content src="text/adventure-xx.xhtml"/>
 	</navPoint>
@@ -201,7 +201,7 @@
 	</navPoint>
 	<navPoint id="navPoint-33" playOrder="33">
 		<navLabel>
-			<text>Adventure XXVI1 How Gelfrat Was Slain by Dankwart</text>
+			<text>Adventure XXVI How Gelfrat Was Slain by Dankwart</text>
 		</navLabel>
 		<content src="text/adventure-xxvi.xhtml"/>
 	</navPoint>
@@ -231,13 +231,13 @@
 	</navPoint>
 	<navPoint id="navPoint-38" playOrder="38">
 		<navLabel>
-			<text>Adventure XXXI.1 How They Went to Church</text>
+			<text>Adventure XXXI. How They Went to Church</text>
 		</navLabel>
 		<content src="text/adventure-xxxi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-39" playOrder="39">
 		<navLabel>
-			<text>Adventure XXXII1 How Bloedel Was Slain</text>
+			<text>Adventure XXXII How Bloedel Was Slain</text>
 		</navLabel>
 		<content src="text/adventure-xxxii.xhtml"/>
 	</navPoint>
