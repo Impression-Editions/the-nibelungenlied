@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://www.impressioneditions.com/ebooks/anonymous/the-nibelungenlied</dc:identifier>
-		<dc:date>2026-07-16T13:36:57Z</dc:date>
+		<dc:date>2026-07-16T13:56:59Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the public domain. This ebook edition is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See the Copyright &amp; Permissions page at the end of this ebook for details.</dc:rights>
 		<dc:publisher id="publisher">Impression Editions</dc:publisher>
@@ -159,8 +159,6 @@
 		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
 	<spine>
-		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="appendix.xhtml"/>
 		<itemref idref="preface-2.xhtml"/>
 		<itemref idref="introduction-3.xhtml"/>
 		<itemref idref="nibelungenlied.xhtml"/>
@@ -203,5 +201,6 @@
 		<itemref idref="adventure-xxxvii.xhtml"/>
 		<itemref idref="adventure-xxxviii.xhtml"/>
 		<itemref idref="adventure-xxxix.xhtml"/>
+		<itemref idref="appendix.xhtml"/>
 </spine>
 </package>
