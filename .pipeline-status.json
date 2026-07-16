@@ -1,9 +1,9 @@
 {
   "run_number": 1,
-  "last_run": "2026-07-16 14:27:36 UTC",
+  "last_run": "2026-07-16 14:33:30 UTC",
   "last_from_step": "generate_errata",
   "result": "errors",
-  "error_count": 3,
+  "error_count": 4,
   "warning_count": 0,
   "steps_completed": [
     "Step 0.4: Generate errata",
@@ -31,7 +31,6 @@
     "Step 9.6: About the Author",
     "Step 9.7: About the Translator",
     "Step 10: Cover art",
-    "Step 10.9: Rebuild ToC",
     "Step 10.9: Final cleanup",
     "Step 11.5: Final typogrify",
     "Step 11.5b: Final clean",
@@ -45,11 +44,13 @@
     "Step 13: Build Kindle"
   ],
   "steps_failed": [
-    "Step 4a: Build ToC"
+    "Step 4a: Build ToC",
+    "Step 10.9: Rebuild ToC"
   ],
   "errors": [
     "('Orphan endnotes', '1 endnote(s) with no matching forward links: note-1-1')",
     "('Step 4a: Build ToC', '[Error] Couldn’t locate first `<section>`, `<article>`, or `<nav>`.\\n')",
+    "('Step 10.9: Rebuild ToC', '[Error] Couldn’t locate first `<section>`, `<article>`, or `<nav>`.\\n')",
     "('Step 11.1: Patches', '  Applying 13 patch(es) from patches.json...\\n  FAIL [0]: src/epub/text/chapter-7.xhtml — file not found\\n  FAIL [1]: src/epub/text/chapter-10.xhtml — file not found\\n  FAIL [2]: src/epub/text/chapter-13.xhtml — file not found\\n  FAIL [3]: src/epub/text/chapter-15.xhtml — file not found\\n  FAIL [4]: src/')"
   ],
   "previous_run": null
