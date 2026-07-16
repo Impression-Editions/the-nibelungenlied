@@ -45,145 +45,145 @@
 	</navPoint>
 	<navPoint id="navPoint-7" playOrder="7">
 		<navLabel>
-			<text>Adventure II. of Siegfried</text>
+			<text>Adventure II of Siegfried</text>
 		</navLabel>
 		<content src="text/adventure-ii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-8" playOrder="8">
 		<navLabel>
-			<text>Adventure III. How Siegfried Came to Worms</text>
+			<text>Adventure III How Siegfried Came to Worms</text>
 		</navLabel>
 		<content src="text/adventure-iii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-9" playOrder="9">
 		<navLabel>
-			<text>Adventure IV. How He Fought with the Saxons</text>
+			<text>Adventure IV How He Fought with the Saxons</text>
 		</navLabel>
 		<content src="text/adventure-iv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-10" playOrder="10">
 		<navLabel>
-			<text>Adventure V. How Siegfried First Saw Kriemhild</text>
+			<text>Adventure V How Siegfried First Saw Kriemhild</text>
 		</navLabel>
 		<content src="text/adventure-v.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-11" playOrder="11">
 		<navLabel>
-			<text>Adventure VI. How Gunther Fared to Isenland for Brunhild</text>
+			<text>Adventure VI How Gunther Fared to Isenland for Brunhild</text>
 		</navLabel>
 		<content src="text/adventure-vi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-12" playOrder="12">
 		<navLabel>
-			<text>Adventure VII. How Gunther Won Brunhild</text>
+			<text>Adventure VII How Gunther Won Brunhild</text>
 		</navLabel>
 		<content src="text/adventure-vii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-13" playOrder="13">
 		<navLabel>
-			<text>Adventure VIII. How Siegfried Fared to His Men-At-Arms, the Nibelungs</text>
+			<text>Adventure VIII How Siegfried Fared to His Men-At-Arms, the Nibelungs</text>
 		</navLabel>
 		<content src="text/adventure-viii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-14" playOrder="14">
 		<navLabel>
-			<text>Adventure IX. How Siegfried Was Sent to Worms</text>
+			<text>Adventure IX How Siegfried Was Sent to Worms</text>
 		</navLabel>
 		<content src="text/adventure-ix.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-15" playOrder="15">
 		<navLabel>
-			<text>Adventure X. How Brunhild Was Received at Worms</text>
+			<text>Adventure X How Brunhild Was Received at Worms</text>
 		</navLabel>
 		<content src="text/adventure-x.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-16" playOrder="16">
 		<navLabel>
-			<text>Adventure XI. How Siegfried Journeyed Homeward With His Wife</text>
+			<text>Adventure XI How Siegfried Journeyed Homeward With His Wife</text>
 		</navLabel>
 		<content src="text/adventure-xi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-17" playOrder="17">
 		<navLabel>
-			<text>Adventure XII. How Gunther Bade Siegfried to the Feasting</text>
+			<text>Adventure XII How Gunther Bade Siegfried to the Feasting</text>
 		</navLabel>
 		<content src="text/adventure-xii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-18" playOrder="18">
 		<navLabel>
-			<text>Adventure XIII. How they Journeyed to the Feasting</text>
+			<text>Adventure XIII How they Journeyed to the Feasting</text>
 		</navLabel>
 		<content src="text/adventure-xiii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-19" playOrder="19">
 		<navLabel>
-			<text>Adventure XIV. How the Queens Reviled Each Other</text>
+			<text>Adventure XIV How the Queens Reviled Each Other</text>
 		</navLabel>
 		<content src="text/adventure-xiv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-20" playOrder="20">
 		<navLabel>
-			<text>Adventure XV. How Siegfried Was Betrayed</text>
+			<text>Adventure XV How Siegfried Was Betrayed</text>
 		</navLabel>
 		<content src="text/adventure-xv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-21" playOrder="21">
 		<navLabel>
-			<text>Adventure XVI. How Siegfried Was Slain</text>
+			<text>Adventure XVI How Siegfried Was Slain</text>
 		</navLabel>
 		<content src="text/adventure-xvi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-22" playOrder="22">
 		<navLabel>
-			<text>Adventure XVII. How Kriemhild Mourned Her Husband and How He Was Buried</text>
+			<text>Adventure XVII How Kriemhild Mourned Her Husband and How He Was Buried</text>
 		</navLabel>
 		<content src="text/adventure-xvii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-23" playOrder="23">
 		<navLabel>
-			<text>Adventure XVIII. How Siegmund Journeyed Home Again</text>
+			<text>Adventure XVIII How Siegmund Journeyed Home Again</text>
 		</navLabel>
 		<content src="text/adventure-xviii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-24" playOrder="24">
 		<navLabel>
-			<text>Adventure XIX. How the Nibelung Hoard Was Brought to Worms</text>
+			<text>Adventure XIX How the Nibelung Hoard Was Brought to Worms</text>
 		</navLabel>
 		<content src="text/adventure-xix.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-25" playOrder="25">
 		<navLabel>
-			<text>Adventure XX. How King Etzel Sent to Burgundy for Kriemhild</text>
+			<text>Adventure XX How King Etzel Sent to Burgundy for Kriemhild</text>
 		</navLabel>
 		<content src="text/adventure-xx.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-26" playOrder="26">
 		<navLabel>
-			<text>Adventure XXI. How Kriemhild Journeyed to the Huns</text>
+			<text>Adventure XXI How Kriemhild Journeyed to the Huns</text>
 		</navLabel>
 		<content src="text/adventure-xxi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-27" playOrder="27">
 		<navLabel>
-			<text>Adventure XXII. How Etzel Made Kriemhild His Bride</text>
+			<text>Adventure XXII How Etzel Made Kriemhild His Bride</text>
 		</navLabel>
 		<content src="text/adventure-xxii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-28" playOrder="28">
 		<navLabel>
-			<text>Adventure XXIII. How Kriemhild Thought to Avenge Her Wrongs</text>
+			<text>Adventure XXIII How Kriemhild Thought to Avenge Her Wrongs</text>
 		</navLabel>
 		<content src="text/adventure-xxiii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-29" playOrder="29">
 		<navLabel>
-			<text>Adventure XXIV. How Werbel and Swemmel Brought the Message</text>
+			<text>Adventure XXIV How Werbel and Swemmel Brought the Message</text>
 		</navLabel>
 		<content src="text/adventure-xxiv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-30" playOrder="30">
 		<navLabel>
-			<text>Adventure XXV. How the Lords All Journeyed to the Huns</text>
+			<text>Adventure XXV How the Lords All Journeyed to the Huns</text>
 		</navLabel>
 		<content src="text/adventure-xxv.xhtml"/>
 	</navPoint>
@@ -195,31 +195,31 @@
 	</navPoint>
 	<navPoint id="navPoint-32" playOrder="32">
 		<navLabel>
-			<text>Adventure XXVII. How They Came to Bechelaren</text>
+			<text>Adventure XXVII How They Came to Bechelaren</text>
 		</navLabel>
 		<content src="text/adventure-xxvii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-33" playOrder="33">
 		<navLabel>
-			<text>Adventure XXVIII. How the Burgundians Came to Etzel’s Castle</text>
+			<text>Adventure XXVIII How the Burgundians Came to Etzel’s Castle</text>
 		</navLabel>
 		<content src="text/adventure-xxviii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-34" playOrder="34">
 		<navLabel>
-			<text>Adventure XXIX. How Hagen Would Not Rise for Kriemhild</text>
+			<text>Adventure XXIX How Hagen Would Not Rise for Kriemhild</text>
 		</navLabel>
 		<content src="text/adventure-xxix.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-35" playOrder="35">
 		<navLabel>
-			<text>Adventure XXX. How they Kept the Watch</text>
+			<text>Adventure XXX How they Kept the Watch</text>
 		</navLabel>
 		<content src="text/adventure-xxx.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-36" playOrder="36">
 		<navLabel>
-			<text>Adventure XXXI. How They Went to Church</text>
+			<text>Adventure XXXI How They Went to Church</text>
 		</navLabel>
 		<content src="text/adventure-xxxi.xhtml"/>
 	</navPoint>
@@ -231,43 +231,43 @@
 	</navPoint>
 	<navPoint id="navPoint-38" playOrder="38">
 		<navLabel>
-			<text>Adventure XXXIII. How the Burgundians Fought the Huns</text>
+			<text>Adventure XXXIII How the Burgundians Fought the Huns</text>
 		</navLabel>
 		<content src="text/adventure-xxxiii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-39" playOrder="39">
 		<navLabel>
-			<text>Adventure XXXIV. How they Cast Out the Dead</text>
+			<text>Adventure XXXIV How they Cast Out the Dead</text>
 		</navLabel>
 		<content src="text/adventure-xxxiv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-40" playOrder="40">
 		<navLabel>
-			<text>Adventure XXXV. How Iring Was Slain</text>
+			<text>Adventure XXXV How Iring Was Slain</text>
 		</navLabel>
 		<content src="text/adventure-xxxv.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-41" playOrder="41">
 		<navLabel>
-			<text>Adventure XXXVI. How the Queen Gave Orders to Burn the Hall</text>
+			<text>Adventure XXXVI How the Queen Gave Orders to Burn the Hall</text>
 		</navLabel>
 		<content src="text/adventure-xxxvi.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-42" playOrder="42">
 		<navLabel>
-			<text>Adventure XXXVII. How Margrave Rüdeger Was Slain</text>
+			<text>Adventure XXXVII How Margrave Rüdeger Was Slain</text>
 		</navLabel>
 		<content src="text/adventure-xxxvii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-43" playOrder="43">
 		<navLabel>
-			<text>Adventure XXXVIII. How All Sir Dietrich’s Warriors Were Slain</text>
+			<text>Adventure XXXVIII How All Sir Dietrich’s Warriors Were Slain</text>
 		</navLabel>
 		<content src="text/adventure-xxxviii.xhtml"/>
 	</navPoint>
 	<navPoint id="navPoint-44" playOrder="44">
 		<navLabel>
-			<text>Adventure XXXIX. How Gunther and Hagen and Kriemhild Were Slain</text>
+			<text>Adventure XXXIX How Gunther and Hagen and Kriemhild Were Slain</text>
 		</navLabel>
 		<content src="text/adventure-xxxix.xhtml"/>
 	</navPoint>
