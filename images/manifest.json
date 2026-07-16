@@ -1,0 +1,21 @@
+{
+  "_instructions": {
+    "purpose": "Manual image placement for this ebook. Fill out to control cover, titlepage, and illustration placement. Leave untouched for default behavior.",
+    "how_to_add_images": "Work with Apprentice to populate this file. Each entry places one image at a specific location in the book.",
+    "cover_override": "Place any image in images/cover-override/ to skip automated cover search. Set cover.credit below for imprint attribution.",
+    "fields": {
+      "image": "Filename in images/ folder, or a URL to download",
+      "at": "Where to place it. Options: 'before:chapter-3', 'after:chapter-3', 'replace:titlepage', 'replace:imprint', 'before:section:Songs of Innocence'",
+      "fullpage": "true = gets its own XHTML page, false = inline in text",
+      "caption": "Optional caption text displayed below the image",
+      "credit": "Attribution for imprint page (e.g. 'William Blake, 1826. Library of Congress.')"
+    }
+  },
+  "cover": {
+    "credit": null,
+    "title": "(Venice) Bust of Vespasianus - Venice National Archaeological Museum.jpg",
+    "source": "Wikimedia Commons",
+    "license": "Public Domain"
+  },
+  "placements": []
+}

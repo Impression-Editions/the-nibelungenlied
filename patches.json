@@ -1,0 +1,64 @@
+{
+  "patches": [
+    {
+      "file": "src/epub/text/chapter-4.xhtml",
+      "find": "Adventure II. of Siegfried",
+      "replace": "Adventure II. Of Siegfried"
+    },
+    {
+      "file": "src/epub/text/chapter-7.xhtml",
+      "find": "Adventure V. How Siegfried First Saw Kriemhild",
+      "replace": "Adventure V. how Siegfried First Saw Kriemhild"
+    },
+    {
+      "file": "src/epub/text/chapter-10.xhtml",
+      "find": "Men-At-Arms",
+      "replace": "Men-at-Arms"
+    },
+    {
+      "file": "src/epub/text/chapter-13.xhtml",
+      "find": "With His Wife",
+      "replace": "with His Wife"
+    },
+    {
+      "file": "src/epub/text/chapter-15.xhtml",
+      "find": "How they Journeyed",
+      "replace": "How They Journeyed"
+    },
+    {
+      "file": "src/epub/text/chapter-32.xhtml",
+      "find": "How they Kept",
+      "replace": "How They Kept"
+    },
+    {
+      "file": "src/epub/text/chapter-36.xhtml",
+      "find": "How they Cast",
+      "replace": "How They Cast"
+    },
+    {
+      "file": "src/epub/text/chapter-8.xhtml",
+      "find": "\u2018t would",
+      "replace": "\u2019t would"
+    },
+    {
+      "file": "src/epub/text/chapter-8.xhtml",
+      "find": "\u2018mid dangers",
+      "replace": "\u2019mid dangers"
+    },
+    {
+      "file": "src/epub/text/chapter-9.xhtml",
+      "find": "\u2018t will",
+      "replace": "\u2019t will"
+    },
+    {
+      "file": "src/epub/text/chapter-24.xhtml",
+      "find": "\u2018fore",
+      "replace": "\u2019fore"
+    },
+    {
+      "file": "src/epub/text/chapter-40.xhtml",
+      "find": "\u2018scaped",
+      "replace": "\u2019scaped"
+    }
+  ]
+}

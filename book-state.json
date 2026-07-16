@@ -1,0 +1,240 @@
+{
+  "classifications": {
+    "the nibelungenlied": {
+      "heading": "THE NIBELUNGENLIED",
+      "type": "halftitle"
+    },
+    "by an unknown author": {
+      "heading": "By An Unknown Author",
+      "type": "blank"
+    },
+    "selected bibliography:": {
+      "heading": "SELECTED BIBLIOGRAPHY:",
+      "type": "appendix"
+    },
+    "preface": {
+      "heading": "PREFACE",
+      "type": "preface"
+    },
+    "introductory sketch": {
+      "heading": "INTRODUCTORY SKETCH",
+      "type": "introduction"
+    },
+    "the nibelungenlied (1)": {
+      "heading": "THE NIBELUNGENLIED (1)",
+      "type": "chapter"
+    },
+    "adventure i (2)": {
+      "heading": "ADVENTURE I (2)",
+      "type": "chapter"
+    },
+    "adventure ii. of siegfried.": {
+      "heading": "ADVENTURE II. Of Siegfried.",
+      "type": "chapter"
+    },
+    "adventure iii. how siegfried came to worms.": {
+      "heading": "ADVENTURE III. How Siegfried Came to Worms.",
+      "type": "chapter"
+    },
+    "adventure iv. how he fought with the saxons. (1)": {
+      "heading": "ADVENTURE IV. How He Fought with the Saxons. (1)",
+      "type": "chapter"
+    },
+    "adventure v. how siegfried first saw kriemhild.": {
+      "heading": "ADVENTURE V. How Siegfried First Saw Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure vi. how gunther fared to isenland (1) for brunhild.": {
+      "heading": "ADVENTURE VI. How Gunther Fared To Isenland (1) for Brunhild.",
+      "type": "chapter"
+    },
+    "adventure vii. how gunther won brunhild.": {
+      "heading": "ADVENTURE VII. How Gunther Won Brunhild.",
+      "type": "chapter"
+    },
+    "adventure viii. how siegfried fared to his men-at-arms, the nibelungs.(1)": {
+      "heading": "ADVENTURE VIII. How Siegfried Fared To His Men-At-Arms, the Nibelungs.(1)",
+      "type": "chapter"
+    },
+    "adventure ix. how siegfried was sent to worms.": {
+      "heading": "ADVENTURE IX. How Siegfried Was Sent To Worms.",
+      "type": "chapter"
+    },
+    "adventure x. how brunhild was received at worms.": {
+      "heading": "ADVENTURE X. How Brunhild Was Received At Worms.",
+      "type": "chapter"
+    },
+    "adventure xi. how siegfried journeyed homeward with his wife.": {
+      "heading": "ADVENTURE XI. How Siegfried Journeyed Homeward With His Wife.",
+      "type": "chapter"
+    },
+    "adventure xii. how gunther bade siegfried to the feasting.": {
+      "heading": "ADVENTURE XII. How Gunther Bade Siegfried To The Feasting.",
+      "type": "chapter"
+    },
+    "adventure xiii. how they journeyed to the feasting.": {
+      "heading": "ADVENTURE XIII. How They Journeyed To The Feasting.",
+      "type": "chapter"
+    },
+    "adventure xiv. how the queens reviled each other.": {
+      "heading": "ADVENTURE XIV. How The Queens Reviled Each Other.",
+      "type": "chapter"
+    },
+    "adventure xv. how siegfried was betrayed.": {
+      "heading": "ADVENTURE XV. How Siegfried Was Betrayed.",
+      "type": "chapter"
+    },
+    "adventure xvi. how siegfried was slain.": {
+      "heading": "ADVENTURE XVI. How Siegfried Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xvii. how kriemhild mourned her husband and how he was buried.": {
+      "heading": "ADVENTURE XVII. How Kriemhild Mourned Her Husband And How He Was Buried.",
+      "type": "chapter"
+    },
+    "adventure xviii. how siegmund journeyed home again.": {
+      "heading": "ADVENTURE XVIII. How Siegmund Journeyed Home Again.",
+      "type": "chapter"
+    },
+    "adventure xix. how the nibelung hoard was brought to worms.": {
+      "heading": "ADVENTURE XIX. How The Nibelung Hoard Was Brought to Worms.",
+      "type": "chapter"
+    },
+    "adventure xx. how king etzel (1) sent to burgundy for kriemhild.": {
+      "heading": "ADVENTURE XX. How King Etzel (1) Sent To Burgundy For Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure xxi. how kriemhild journeyed to the huns.": {
+      "heading": "ADVENTURE XXI. How Kriemhild Journeyed To The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxii. how etzel made kriemhild his bride.": {
+      "heading": "ADVENTURE XXII. How Etzel Made Kriemhild His Bride.",
+      "type": "chapter"
+    },
+    "adventure xxiii. how kriemhild thought to avenge her wrongs.": {
+      "heading": "ADVENTURE XXIII. How Kriemhild Thought To Avenge Her Wrongs.",
+      "type": "chapter"
+    },
+    "adventure xxiv. how werbel and swemmel brought the message.": {
+      "heading": "ADVENTURE XXIV. How Werbel And Swemmel Brought The Message.",
+      "type": "chapter"
+    },
+    "adventure xxv. how the lords all journeyed to the huns.": {
+      "heading": "ADVENTURE XXV. How The Lords All Journeyed To The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxvi (1) how gelfrat was slain by dankwart.": {
+      "heading": "ADVENTURE XXVI (1) How Gelfrat Was Slain By Dankwart.",
+      "type": "chapter"
+    },
+    "adventure xxvii. how they came to bechelaren.": {
+      "heading": "ADVENTURE XXVII. How They Came To Bechelaren.",
+      "type": "chapter"
+    },
+    "adventure xxviii. how the burgundians came to etzel's castle.": {
+      "heading": "ADVENTURE XXVIII. How The Burgundians Came To Etzel's Castle.",
+      "type": "chapter"
+    },
+    "adventure xxix. how hagen would not rise for kriemhild.": {
+      "heading": "ADVENTURE XXIX. How Hagen Would Not Rise For Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure xxx. how they kept the watch.": {
+      "heading": "ADVENTURE XXX. How They Kept The Watch.",
+      "type": "chapter"
+    },
+    "adventure xxxi. (1) how they went to church.": {
+      "heading": "ADVENTURE XXXI. (1) How They Went To Church.",
+      "type": "chapter"
+    },
+    "adventure xxxii (1) how bloedel was slain.": {
+      "heading": "ADVENTURE XXXII (1) How Bloedel Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxiii. how the burgundians fought the huns.": {
+      "heading": "ADVENTURE XXXIII. How The Burgundians Fought The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxxiv. how they cast out the dead.": {
+      "heading": "ADVENTURE XXXIV. How They Cast Out The Dead.",
+      "type": "chapter"
+    },
+    "adventure xxxv. how iring was slain.": {
+      "heading": "ADVENTURE XXXV. How Iring Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxvi. how the queen gave orders to burn the hall.": {
+      "heading": "ADVENTURE XXXVI. How The Queen Gave Orders To Burn the Hall.",
+      "type": "chapter"
+    },
+    "adventure xxxvii. how margrave rüdeger was slain.": {
+      "heading": "ADVENTURE XXXVII. How Margrave Rüdeger Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxviii. how all sir dietrich's warriors were slain.": {
+      "heading": "ADVENTURE XXXVIII. How All Sir Dietrich's Warriors Were Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxix. how gunther and hagen and kriemhild were slain.": {
+      "heading": "ADVENTURE XXXIX. How Gunther And Hagen And Kriemhild Were Slain.",
+      "type": "chapter"
+    }
+  },
+  "spine_order": [
+    "halftitle.xhtml",
+    "appendix.xhtml",
+    "preface.xhtml",
+    "introduction.xhtml",
+    "chapter-1.xhtml",
+    "chapter-2.xhtml",
+    "chapter-3.xhtml",
+    "chapter-4.xhtml",
+    "chapter-5.xhtml",
+    "chapter-6.xhtml",
+    "chapter-7.xhtml",
+    "chapter-8.xhtml",
+    "chapter-9.xhtml",
+    "chapter-10.xhtml",
+    "chapter-11.xhtml",
+    "chapter-12.xhtml",
+    "chapter-13.xhtml",
+    "chapter-14.xhtml",
+    "chapter-15.xhtml",
+    "chapter-16.xhtml",
+    "chapter-17.xhtml",
+    "chapter-18.xhtml",
+    "chapter-19.xhtml",
+    "chapter-20.xhtml",
+    "chapter-21.xhtml",
+    "chapter-22.xhtml",
+    "chapter-23.xhtml",
+    "chapter-24.xhtml",
+    "chapter-25.xhtml",
+    "chapter-26.xhtml",
+    "chapter-27.xhtml",
+    "chapter-28.xhtml",
+    "chapter-29.xhtml",
+    "chapter-30.xhtml",
+    "chapter-31.xhtml",
+    "chapter-32.xhtml",
+    "chapter-33.xhtml",
+    "chapter-34.xhtml",
+    "chapter-35.xhtml",
+    "chapter-36.xhtml",
+    "chapter-37.xhtml",
+    "chapter-38.xhtml",
+    "chapter-39.xhtml",
+    "chapter-40.xhtml"
+  ],
+  "bios": {
+    "william morris": {
+      "bio": "William Morris (1834–1896) was a polymath of Victorian Britain whose profound engagement with medieval literature and language shaped his career as a poet, designer, and social critic. Educated at Oxford, where he developed a lifelong devotion to the medieval world, Morris became a central figure in the Arts and Crafts movement. His literary output, ranging from the utopian News from Nowhere to the foundational fantasy romance The Well at the World's End, was deeply informed by his scholarly interest in the epic traditions of Northern Europe.\n\nHis work as a translator was driven by a desire to preserve the raw, heroic spirit of ancient texts, most notably through his collaborative translations of the Icelandic Sagas with Eiríkur Magnússon. This commitment to the integrity of the original voice is evident in his rendering of The Nibelungenlied, where he sought to capture the rhythmic power and archaic beauty of the Germanic epic. By founding the Kelmscott Press in his later years, Morris further demonstrated his dedication to the book as an art form, ensuring that the literature he translated was presented with the same craftsmanship and reverence he applied to his celebrated textile and decorative designs.",
+      "wiki": "William Morris"
+    },
+    "daniel b. shumway": {
+      "bio": "Daniel B. Shumway (1868–1940) was a distinguished American scholar and philologist whose career was defined by his profound dedication to the study and preservation of Germanic literature. A long-time professor of Germanics at the University of Pennsylvania, he was widely respected for his rigorous academic approach to medieval texts. His scholarly contributions were instrumental in bridging the gap between early Middle High German literature and the English-speaking world, ensuring that the complexities of these foundational epics remained accessible to both students and the general public.\n\nHis translation of The Nibelungenlied stands as a cornerstone of his literary legacy, reflecting a meticulous effort to capture the raw power and tragic scope of the original Middle High German poem. By rendering this \"German Iliad\" into English, Shumway sought to preserve the rhythmic intensity and heroic spirit of the anonymous poet’s work, which chronicles the legendary rise and fall of the Burgundian court. Through this definitive translation, he provided readers with a vital window into the medieval imagination, cementing his reputation as a preeminent interpreter of the heroic tradition.",
+      "wiki": "Nibelungenlied"
+    }
+  }
+}

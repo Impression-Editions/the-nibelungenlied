@@ -1,0 +1,24 @@
+{
+  "pg_id": 1151,
+  "fetched_at": "2026-07-15T23:22:22.465467+00:00",
+  "source_url": "https://www.gutenberg.org/cache/epub/1151/pg1151-images.html",
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "subjects": [
+    "Folklore -- Germany",
+    "Siegfried (Legendary character)",
+    "Mythology, Germanic",
+    "Epic poetry, Germanic",
+    "Nibelungen",
+    "Kriemhild (Legendary character)",
+    "PT"
+  ],
+  "files": {
+    "html": "pg-1151-images.html",
+    "epub": null,
+    "illustrations": [
+      "pg1151_cover.jpg",
+      "pg1151_cover_small.jpg"
+    ]
+  }
+}

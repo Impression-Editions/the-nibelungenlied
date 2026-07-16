@@ -1,0 +1,31 @@
+{
+  "pg_id": 1151,
+  "title": "The Nibelungenlied",
+  "author": "Anonymous",
+  "slug": "the-nibelungenlied",
+  "language": "en-US",
+  "has_illustrations": false,
+  "illustration_count": 2,
+  "preserve_spelling": true,
+  "original_year": "c. 1200",
+  "gutendex_subjects": [
+    "Folklore -- Germany",
+    "Siegfried (Legendary character)",
+    "Mythology, Germanic",
+    "Epic poetry, Germanic",
+    "Nibelungen",
+    "Kriemhild (Legendary character)",
+    "PT"
+  ],
+  "llm_model": "google/gemini-3.1-flash-lite",
+  "llm_model_strong": "google/gemini-3.1-flash-lite",
+  "llm_batch_size": 5,
+  "proofread_chapters": 2,
+  "spine_order": null,
+  "dc_description": null,
+  "dc_subject": null,
+  "pg_images": [],
+  "translator": "Daniel B. Shumway",
+  "ia_scan_url": "https://archive.org/details/nibelungenliedtr00bost",
+  "book_type": "novel"
+}
