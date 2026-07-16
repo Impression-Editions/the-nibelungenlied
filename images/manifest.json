@@ -12,10 +12,13 @@
     }
   },
   "cover": {
-    "credit": null,
-    "title": "(Venice) Bust of Vespasianus - Venice National Archaeological Museum.jpg",
-    "source": "Wikimedia Commons",
-    "license": "Public Domain"
+    "credit": "Cover image: \"Pfizer (1843)-ed-Nibelungen Not-p211-Hagen&merminnen.jpg\" by Julius Schnorr von Carolsfeld, , 1794-1872, (illus); Eugen Napoleon Neureuther 1806-1882, (illus). (1843). Public domain. Source: https://commons.wikimedia.org/wiki/File:Pfizer (1843)-ed-Nibelungen Not-p211-Hagen&merminnen.jpg.",
+    "title": "Pfizer (1843)-ed-Nibelungen Not-p211-Hagen&merminnen.jpg",
+    "source": "https://commons.wikimedia.org/wiki/File:Pfizer (1843)-ed-Nibelungen Not-p211-Hagen&merminnen.jpg",
+    "license": "Public domain",
+    "artist": "Julius Schnorr von Carolsfeld, , 1794-1872, (illus); Eugen Napoleon Neureuther 1806-1882, (illus)",
+    "date": "1843",
+    "override": "cover-override/cover.jpg"
   },
   "placements": []
 }

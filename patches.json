@@ -1,74 +1,82 @@
 {
   "patches": [
     {
-      "file": "src/epub/text/chapter-4.xhtml",
-      "find": "Adventure II. of Siegfried",
-      "replace": "Adventure II. Of Siegfried"
-    },
-    {
       "file": "src/epub/text/chapter-7.xhtml",
       "find": "Adventure V. How Siegfried First Saw Kriemhild",
-      "replace": "Adventure V. how Siegfried First Saw Kriemhild"
+      "replace": "Adventure V. how Siegfried First Saw Kriemhild",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-10.xhtml",
       "find": "Men-At-Arms",
-      "replace": "Men-at-Arms"
+      "replace": "Men-at-Arms",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-13.xhtml",
       "find": "With His Wife",
-      "replace": "with His Wife"
+      "replace": "with His Wife",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-15.xhtml",
       "find": "How they Journeyed",
-      "replace": "How They Journeyed"
+      "replace": "How They Journeyed",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-32.xhtml",
       "find": "How they Kept",
-      "replace": "How They Kept"
+      "replace": "How They Kept",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-36.xhtml",
       "find": "How they Cast",
-      "replace": "How They Cast"
+      "replace": "How They Cast",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-8.xhtml",
       "find": "\u2018t would",
-      "replace": "\u2019t would"
+      "replace": "\u2019t would",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-8.xhtml",
       "find": "\u2018mid dangers",
-      "replace": "\u2019mid dangers"
+      "replace": "\u2019mid dangers",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-9.xhtml",
       "find": "\u2018t will",
-      "replace": "\u2019t will"
+      "replace": "\u2019t will",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-24.xhtml",
       "find": "\u2018fore",
-      "replace": "\u2019fore"
+      "replace": "\u2019fore",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-40.xhtml",
       "find": "\u2018scaped",
-      "replace": "\u2019scaped"
+      "replace": "\u2019scaped",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-2.xhtml",
       "find": "The Nibelungenlied (1)",
-      "replace": "The Nibelungenlied<a href=\"endnotes.xhtml#note-3-1\" id=\"noteref-3-1\" epub:type=\"noteref\">1</a>"
+      "replace": "The Nibelungenlied<a href=\"endnotes.xhtml#note-3-1\" id=\"noteref-3-1\" epub:type=\"noteref\">1</a>",
+      "action": "replace"
     },
     {
       "file": "src/epub/text/chapter-2.xhtml",
       "find": "<title>The Nibelungenlied (1)</title>",
-      "replace": "<title>The Nibelungenlied</title>"
+      "replace": "<title>The Nibelungenlied</title>",
+      "action": "replace"
     }
   ]
 }

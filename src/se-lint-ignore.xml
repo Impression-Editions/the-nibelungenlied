@@ -44,11 +44,6 @@
 			<reason>Cover SVG and titlepage SVG titles differ by design</reason>
 		</ignore>
 	</file>
-	<file path="*.css">
-		<ignore code="s-009">
-			<reason>SE base.css template uses single-selector rules; not refactoring upstream CSS</reason>
-		</ignore>
-	</file>
 	<file path="local.css">
 		<ignore code="c-002">
 			<reason>CSS template includes selectors for features this book does not use</reason>
