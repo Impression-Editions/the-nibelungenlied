@@ -1,9 +1,9 @@
 {
   "run_number": 1,
-  "last_run": "2026-07-16 11:34:09 UTC",
+  "last_run": "2026-07-16 11:40:02 UTC",
   "last_from_step": "generate_errata",
   "result": "errors",
-  "error_count": 2,
+  "error_count": 3,
   "warning_count": 0,
   "steps_completed": [
     "Step 0.4: Generate errata",
@@ -45,9 +45,12 @@
     "Step 12.6: Preview HTML",
     "Step 13: Build Kindle"
   ],
-  "steps_failed": [],
+  "steps_failed": [
+    "Step 9.1b: Rebuild manifest"
+  ],
   "errors": [
     "('Orphan endnotes', '1 endnote(s) with no matching forward links: note-3-1')",
+    "('Step 9.1b: Rebuild manifest', \"[Error] Couldn’t parse XML in `/mnt/HC_Volume_105940927/projects/books/anonymous_the-nibelungenlied/src/epub/text/imprint.xhtml`. Exception: EntityRef: expecting ';', line 26, column 90 (<string>, lin\")",
     "('Step 11.1: Patches', '  Applying 13 patch(es) from patches.json...\\n  OK   [0]: src/epub/text/chapter-7.xhtml — 1 replacement(s)\\n  OK   [1]: src/epub/text/chapter-10.xhtml — 1 replacement(s)\\n  OK   [2]: src/epub/text/chapter-13.xhtml — 1 replacement(s)\\n  OK   [3]: src/epub/text/chapter-15.xhtml — 1 replacement(s)\\n  OK   [')"
   ],
   "previous_run": null
