@@ -1,6 +1,6 @@
 {
   "run_number": 1,
-  "last_run": "2026-07-16 14:33:30 UTC",
+  "last_run": "2026-07-16 17:37:13 UTC",
   "last_from_step": "generate_errata",
   "result": "errors",
   "error_count": 4,
@@ -40,6 +40,7 @@
     "Step 11.7: Embed fonts",
     "Step 12: Prepare release",
     "Step 12: Build",
+    "Step 12.5: Verify",
     "Step 12.6: Preview HTML",
     "Step 13: Build Kindle"
   ],
