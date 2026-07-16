@@ -188,8 +188,6 @@
     }
   },
   "spine_order": [
-    "halftitle.xhtml",
-    "appendix.xhtml",
     "preface-2.xhtml",
     "introduction-3.xhtml",
     "nibelungenlied.xhtml",
@@ -231,6 +229,7 @@
     "adventure-xxxvi.xhtml",
     "adventure-xxxvii.xhtml",
     "adventure-xxxviii.xhtml",
-    "adventure-xxxix.xhtml"
+    "adventure-xxxix.xhtml",
+    "appendix.xhtml",
   ]
 }
