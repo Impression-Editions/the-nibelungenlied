@@ -4,5 +4,233 @@
       "bio": "Daniel B. Shumway (1868–1940) was a distinguished American scholar and philologist whose career was defined by his profound commitment to making the foundational texts of Germanic literature accessible to English-speaking audiences. A long-time professor of Germanics at the University of Pennsylvania, Shumway dedicated his life to the rigorous study of Middle High German, bridging the gap between academic scholarship and literary appreciation. His work remains a cornerstone for students of medieval European literature, characterized by a meticulous attention to the linguistic nuances and the heroic spirit of the original manuscripts.\n\nIn this definitive translation of The Nibelungenlied, Shumway captures the raw power and tragic scope of the medieval epic, preserving the rhythmic intensity of the original verse while navigating the complex cultural history of the Burgundian court. Beyond this monumental translation, his scholarly contributions—including extensive research into the development of the German language and its heroic traditions—have provided essential context for understanding the evolution of the \"German Iliad.\" Through his careful rendering of this anonymous masterpiece, Shumway ensures that the dramatic saga of Siegfried, Kriemhild, and the fall of the Burgundians continues to resonate with modern readers.",
       "wiki": "Nibelungenlied"
     }
-  }
+  },
+  "classifications": {
+    "the nibelungenlied": {
+      "heading": "THE NIBELUNGENLIED",
+      "type": "halftitle"
+    },
+    "by an unknown author": {
+      "heading": "By An Unknown Author",
+      "type": "blank"
+    },
+    "selected bibliography:": {
+      "heading": "SELECTED BIBLIOGRAPHY:",
+      "type": "appendix"
+    },
+    "preface": {
+      "heading": "PREFACE",
+      "type": "preface"
+    },
+    "introductory sketch": {
+      "heading": "INTRODUCTORY SKETCH",
+      "type": "introduction"
+    },
+    "the nibelungenlied (1)": {
+      "heading": "THE NIBELUNGENLIED (1)",
+      "type": "chapter"
+    },
+    "adventure i (2)": {
+      "heading": "ADVENTURE I (2)",
+      "type": "chapter"
+    },
+    "adventure ii. of siegfried.": {
+      "heading": "ADVENTURE II. Of Siegfried.",
+      "type": "chapter"
+    },
+    "adventure iii. how siegfried came to worms.": {
+      "heading": "ADVENTURE III. How Siegfried Came to Worms.",
+      "type": "chapter"
+    },
+    "adventure iv. how he fought with the saxons. (1)": {
+      "heading": "ADVENTURE IV. How He Fought with the Saxons. (1)",
+      "type": "chapter"
+    },
+    "adventure v. how siegfried first saw kriemhild.": {
+      "heading": "ADVENTURE V. How Siegfried First Saw Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure vi. how gunther fared to isenland (1) for brunhild.": {
+      "heading": "ADVENTURE VI. How Gunther Fared To Isenland (1) for Brunhild.",
+      "type": "chapter"
+    },
+    "adventure vii. how gunther won brunhild.": {
+      "heading": "ADVENTURE VII. How Gunther Won Brunhild.",
+      "type": "chapter"
+    },
+    "adventure viii. how siegfried fared to his men-at-arms, the nibelungs.(1)": {
+      "heading": "ADVENTURE VIII. How Siegfried Fared To His Men-At-Arms, the Nibelungs.(1)",
+      "type": "chapter"
+    },
+    "adventure ix. how siegfried was sent to worms.": {
+      "heading": "ADVENTURE IX. How Siegfried Was Sent To Worms.",
+      "type": "chapter"
+    },
+    "adventure x. how brunhild was received at worms.": {
+      "heading": "ADVENTURE X. How Brunhild Was Received At Worms.",
+      "type": "chapter"
+    },
+    "adventure xi. how siegfried journeyed homeward with his wife.": {
+      "heading": "ADVENTURE XI. How Siegfried Journeyed Homeward With His Wife.",
+      "type": "chapter"
+    },
+    "adventure xii. how gunther bade siegfried to the feasting.": {
+      "heading": "ADVENTURE XII. How Gunther Bade Siegfried To The Feasting.",
+      "type": "chapter"
+    },
+    "adventure xiii. how they journeyed to the feasting.": {
+      "heading": "ADVENTURE XIII. How They Journeyed To The Feasting.",
+      "type": "chapter"
+    },
+    "adventure xiv. how the queens reviled each other.": {
+      "heading": "ADVENTURE XIV. How The Queens Reviled Each Other.",
+      "type": "chapter"
+    },
+    "adventure xv. how siegfried was betrayed.": {
+      "heading": "ADVENTURE XV. How Siegfried Was Betrayed.",
+      "type": "chapter"
+    },
+    "adventure xvi. how siegfried was slain.": {
+      "heading": "ADVENTURE XVI. How Siegfried Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xvii. how kriemhild mourned her husband and how he was buried.": {
+      "heading": "ADVENTURE XVII. How Kriemhild Mourned Her Husband And How He Was Buried.",
+      "type": "chapter"
+    },
+    "adventure xviii. how siegmund journeyed home again.": {
+      "heading": "ADVENTURE XVIII. How Siegmund Journeyed Home Again.",
+      "type": "chapter"
+    },
+    "adventure xix. how the nibelung hoard was brought to worms.": {
+      "heading": "ADVENTURE XIX. How The Nibelung Hoard Was Brought to Worms.",
+      "type": "chapter"
+    },
+    "adventure xx. how king etzel (1) sent to burgundy for kriemhild.": {
+      "heading": "ADVENTURE XX. How King Etzel (1) Sent To Burgundy For Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure xxi. how kriemhild journeyed to the huns.": {
+      "heading": "ADVENTURE XXI. How Kriemhild Journeyed To The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxii. how etzel made kriemhild his bride.": {
+      "heading": "ADVENTURE XXII. How Etzel Made Kriemhild His Bride.",
+      "type": "chapter"
+    },
+    "adventure xxiii. how kriemhild thought to avenge her wrongs.": {
+      "heading": "ADVENTURE XXIII. How Kriemhild Thought To Avenge Her Wrongs.",
+      "type": "chapter"
+    },
+    "adventure xxiv. how werbel and swemmel brought the message.": {
+      "heading": "ADVENTURE XXIV. How Werbel And Swemmel Brought The Message.",
+      "type": "chapter"
+    },
+    "adventure xxv. how the lords all journeyed to the huns.": {
+      "heading": "ADVENTURE XXV. How The Lords All Journeyed To The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxvi (1) how gelfrat was slain by dankwart.": {
+      "heading": "ADVENTURE XXVI (1) How Gelfrat Was Slain By Dankwart.",
+      "type": "chapter"
+    },
+    "adventure xxvii. how they came to bechelaren.": {
+      "heading": "ADVENTURE XXVII. How They Came To Bechelaren.",
+      "type": "chapter"
+    },
+    "adventure xxviii. how the burgundians came to etzel's castle.": {
+      "heading": "ADVENTURE XXVIII. How The Burgundians Came To Etzel's Castle.",
+      "type": "chapter"
+    },
+    "adventure xxix. how hagen would not rise for kriemhild.": {
+      "heading": "ADVENTURE XXIX. How Hagen Would Not Rise For Kriemhild.",
+      "type": "chapter"
+    },
+    "adventure xxx. how they kept the watch.": {
+      "heading": "ADVENTURE XXX. How They Kept The Watch.",
+      "type": "chapter"
+    },
+    "adventure xxxi. (1) how they went to church.": {
+      "heading": "ADVENTURE XXXI. (1) How They Went To Church.",
+      "type": "chapter"
+    },
+    "adventure xxxii (1) how bloedel was slain.": {
+      "heading": "ADVENTURE XXXII (1) How Bloedel Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxiii. how the burgundians fought the huns.": {
+      "heading": "ADVENTURE XXXIII. How The Burgundians Fought The Huns.",
+      "type": "chapter"
+    },
+    "adventure xxxiv. how they cast out the dead.": {
+      "heading": "ADVENTURE XXXIV. How They Cast Out The Dead.",
+      "type": "chapter"
+    },
+    "adventure xxxv. how iring was slain.": {
+      "heading": "ADVENTURE XXXV. How Iring Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxvi. how the queen gave orders to burn the hall.": {
+      "heading": "ADVENTURE XXXVI. How The Queen Gave Orders To Burn the Hall.",
+      "type": "chapter"
+    },
+    "adventure xxxvii. how margrave rüdeger was slain.": {
+      "heading": "ADVENTURE XXXVII. How Margrave Rüdeger Was Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxviii. how all sir dietrich's warriors were slain.": {
+      "heading": "ADVENTURE XXXVIII. How All Sir Dietrich's Warriors Were Slain.",
+      "type": "chapter"
+    },
+    "adventure xxxix. how gunther and hagen and kriemhild were slain.": {
+      "heading": "ADVENTURE XXXIX. How Gunther And Hagen And Kriemhild Were Slain.",
+      "type": "chapter"
+    }
+  },
+  "spine_order": [
+    "halftitle.xhtml",
+    "appendix.xhtml",
+    "preface-2.xhtml",
+    "introduction-3.xhtml",
+    "nibelungenlied.xhtml",
+    "adventure-i.xhtml",
+    "adventure-ii.xhtml",
+    "adventure-iii.xhtml",
+    "adventure-iv.xhtml",
+    "adventure-v.xhtml",
+    "adventure-vi.xhtml",
+    "adventure-vii.xhtml",
+    "adventure-viii.xhtml",
+    "adventure-ix.xhtml",
+    "adventure-x.xhtml",
+    "adventure-xi.xhtml",
+    "adventure-xii.xhtml",
+    "adventure-xiii.xhtml",
+    "adventure-xiv.xhtml",
+    "adventure-xv.xhtml",
+    "adventure-xvi.xhtml",
+    "adventure-xvii.xhtml",
+    "adventure-xviii.xhtml",
+    "adventure-xix.xhtml",
+    "adventure-xx.xhtml",
+    "adventure-xxi.xhtml",
+    "adventure-xxii.xhtml",
+    "adventure-xxiii.xhtml",
+    "adventure-xxiv.xhtml",
+    "adventure-xxv.xhtml",
+    "adventure-xxvi.xhtml",
+    "adventure-xxvii.xhtml",
+    "adventure-xxviii.xhtml",
+    "adventure-xxix.xhtml",
+    "adventure-xxx.xhtml",
+    "adventure-xxxi.xhtml",
+    "adventure-xxxii.xhtml",
+    "adventure-xxxiii.xhtml",
+    "adventure-xxxiv.xhtml",
+    "adventure-xxxv.xhtml",
+    "adventure-xxxvi.xhtml",
+    "adventure-xxxvii.xhtml",
+    "adventure-xxxviii.xhtml",
+    "adventure-xxxix.xhtml"
+  ]
 }

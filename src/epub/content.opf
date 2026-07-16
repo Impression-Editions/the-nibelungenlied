@@ -2,7 +2,7 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://www.impressioneditions.com/ebooks/anonymous/the-nibelungenlied</dc:identifier>
-		<dc:date>2026-07-16T13:02:19Z</dc:date>
+		<dc:date>2026-07-16T13:06:47Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the public domain. This ebook edition is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See the Copyright &amp; Permissions page at the end of this ebook for details.</dc:rights>
 		<dc:publisher id="publisher">Impression Editions</dc:publisher>
@@ -145,7 +145,6 @@
 		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/introduction-3.xhtml" id="introduction-3.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/nibelungenlied.xhtml" id="nibelungenlied.xhtml" media-type="application/xhtml+xml"/>
@@ -160,55 +159,49 @@
 		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
 	<spine>
-		<itemref idref="titlepage.xhtml"/>
-		<itemref idref="imprint.xhtml"/>
-		<itemref idref="halftitlepage.xhtml"/>
-		<itemref idref="about-the-translator.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="appendix.xhtml"/>
+		<itemref idref="preface-2.xhtml"/>
+		<itemref idref="introduction-3.xhtml"/>
+		<itemref idref="nibelungenlied.xhtml"/>
 		<itemref idref="adventure-i.xhtml"/>
 		<itemref idref="adventure-ii.xhtml"/>
 		<itemref idref="adventure-iii.xhtml"/>
 		<itemref idref="adventure-iv.xhtml"/>
-		<itemref idref="adventure-ix.xhtml"/>
 		<itemref idref="adventure-v.xhtml"/>
 		<itemref idref="adventure-vi.xhtml"/>
 		<itemref idref="adventure-vii.xhtml"/>
 		<itemref idref="adventure-viii.xhtml"/>
+		<itemref idref="adventure-ix.xhtml"/>
 		<itemref idref="adventure-x.xhtml"/>
 		<itemref idref="adventure-xi.xhtml"/>
 		<itemref idref="adventure-xii.xhtml"/>
 		<itemref idref="adventure-xiii.xhtml"/>
 		<itemref idref="adventure-xiv.xhtml"/>
-		<itemref idref="adventure-xix.xhtml"/>
 		<itemref idref="adventure-xv.xhtml"/>
 		<itemref idref="adventure-xvi.xhtml"/>
 		<itemref idref="adventure-xvii.xhtml"/>
 		<itemref idref="adventure-xviii.xhtml"/>
+		<itemref idref="adventure-xix.xhtml"/>
 		<itemref idref="adventure-xx.xhtml"/>
 		<itemref idref="adventure-xxi.xhtml"/>
 		<itemref idref="adventure-xxii.xhtml"/>
 		<itemref idref="adventure-xxiii.xhtml"/>
 		<itemref idref="adventure-xxiv.xhtml"/>
-		<itemref idref="adventure-xxix.xhtml"/>
 		<itemref idref="adventure-xxv.xhtml"/>
 		<itemref idref="adventure-xxvi.xhtml"/>
 		<itemref idref="adventure-xxvii.xhtml"/>
 		<itemref idref="adventure-xxviii.xhtml"/>
+		<itemref idref="adventure-xxix.xhtml"/>
 		<itemref idref="adventure-xxx.xhtml"/>
 		<itemref idref="adventure-xxxi.xhtml"/>
 		<itemref idref="adventure-xxxii.xhtml"/>
 		<itemref idref="adventure-xxxiii.xhtml"/>
 		<itemref idref="adventure-xxxiv.xhtml"/>
-		<itemref idref="adventure-xxxix.xhtml"/>
 		<itemref idref="adventure-xxxv.xhtml"/>
 		<itemref idref="adventure-xxxvi.xhtml"/>
 		<itemref idref="adventure-xxxvii.xhtml"/>
 		<itemref idref="adventure-xxxviii.xhtml"/>
-		<itemref idref="appendix.xhtml"/>
-		<itemref idref="halftitle.xhtml"/>
-		<itemref idref="introduction-3.xhtml"/>
-		<itemref idref="nibelungenlied.xhtml"/>
-		<itemref idref="preface-2.xhtml"/>
-		<itemref idref="endnotes.xhtml"/>
-		<itemref idref="permissions.xhtml"/>
+		<itemref idref="adventure-xxxix.xhtml"/>
 </spine>
 </package>
